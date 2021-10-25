@@ -3,7 +3,7 @@
 
 </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/Michaek%20McLoughlin-blue?style=social&logo=linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/michael-mcloughlin-46818720a///)](https://https://www.linkedin.com/in/michael-mcloughlin-46818720a/)
+[![Linkedin Badge](https://img.shields.io/badge/Michaek%20McLoughlin-blue?style=social&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/michael-mcloughlin-46818720a///)](https://www.linkedin.com/in/michael-mcloughlin-46818720a/)
 [![Codewars Badge](https://www.codewars.com/users/Lundi19/badges/micro)](https://www.codewars.com/users/Lundi19)
 
 # Tech
